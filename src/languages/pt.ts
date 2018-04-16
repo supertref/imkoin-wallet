@@ -2059,7 +2059,7 @@ Você tem certeza?</translation>
     </message>
     <message>
         <source>MixIn count is too big</source>
-        <translation> número de confusões é muito grande</translation>
+        <translation> fator de anonimato muito grande</translation>
     </message>
     <message>
         <source>Bad address</source>
