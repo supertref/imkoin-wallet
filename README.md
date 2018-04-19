@@ -22,3 +22,4 @@ sudo apt-get install qt5-default qttools5-dev-tools cmake libboost-all-dev g++
 ```
 mkdir build && cd build && cmake .. && make
 ```
+
