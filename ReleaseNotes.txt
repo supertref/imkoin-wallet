@@ -1,5 +1,9 @@
 Release notes Niobio Cash Wallet
 
+v.1.3.2
+- Use niobio-wallet repository for update.txt location
+- Prepare for hard fork to block version 5: decrease reward and cryptonight heavy
+
 v.1.3.1
 - Fix checkpoint range handling for PoW verification
 - Added option to see transaction on explorer
