@@ -202,7 +202,7 @@
 <context>
     <name>ConfirmSendDialog</name>
     <message>
-        <source>Confirm sending %1 KRB</source>
+        <source>Confirm sending %1 NBR</source>
         <translation type="vanished">Potwierdź wysłanie %1 NBR</translation>
     </message>
     <message>
@@ -273,7 +273,7 @@
         <translation>Wbudowany</translation>
     </message>
     <message>
-        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 KRB.</source>
+        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 NBR.</source>
         <translation type="vanished">Portfel będzie łączyć się ze zdalnym węzłem w sieci lokalnej lub globalnej. Wybierz węzeł lub kliknij &quot;Dodaj węzeł&quot; i podaj adres IP czy nazwę domeny i port. W tym trybie portfel płaci prowizję dla węzła w rozmiarze 0,25% od sumy transakcji, ale nie więcej niż 10 NBR.</translation>
     </message>
     <message>
@@ -1417,7 +1417,7 @@ Czy chesz otworzyć stronę pobierania w przeglądarce?</translation>
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
-        <source>Confirm sending %1 KRB</source>
+        <source>Confirm sending %1 NBR</source>
         <translation type="vanished">Potwierdź wysłanie %1 NBR</translation>
     </message>
     <message>

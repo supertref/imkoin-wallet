@@ -202,7 +202,7 @@
 <context>
     <name>ConfirmSendDialog</name>
     <message>
-        <source>Comfirm sending %1 KRB</source>
+        <source>Comfirm sending %1 NBR</source>
         <translation type="vanished">Senden bestätigen %1 NBR</translation>
     </message>
     <message>
@@ -274,7 +274,7 @@
         <translation>Knoten hinzufügen</translation>
     </message>
     <message>
-        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 KRB.</source>
+        <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 NBR.</source>
         <translation type="vanished">Wallet stellt eine Verbindung zum Remote-Knoten her, der im lokalen oder globalen Netzwerk ausgeführt wird. Bitte wählen Sie einen Knoten aus oder geben Sie die IP-Adresse oder den Domänennamen und den Port an. In diesem Modus sendet die Brieftasche 0,25% Gebühr von jeder Transaktion an den Knoten, aber nicht mehr als 10 NBR.</translation>
     </message>
     <message>
@@ -1414,7 +1414,7 @@ Externer Port für das P2P-Netzwerkprotokoll (wenn Portweiterleitung mit NAT ver
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
-        <source>Confirm sending %1 KRB</source>
+        <source>Confirm sending %1 NBR</source>
         <translation type="vanished">Bestätige senden %1 NBR</translation>
     </message>
     <message>

@@ -1802,6 +1802,10 @@ Você tem certeza?</translation>
         <source>Available balance is insufficient to send this transaction. Have you excluded a fee?</source>
         <translation>O saldo disponível não é suficiente para enviar esta transação. Você esqueceu de retirar uma taxa?</translation>
     </message>
+    <message>
+        <source>You will be able to send NBR when the wallet is synchronized</source>
+        <translation>Você poderá enviar NBR quando a carteira estiver sincronizada</translation>
+    </message>
 </context>
 <context>
     <name>WalletGui::TransactionDetailsDialog</name>

@@ -131,7 +131,7 @@ void SendGlassFrame::drawProgressLabel(QPainter &_painter) {
   QFont font;
   font.setBold(true);
   font.setPixelSize(14);
-  QString msg = tr("You will be able to send KRB\nwhen the wallet is synchronized");
+  QString msg = tr("Você poderá enviar NBR quando\na carteira estiver sincronizada");
   QFontMetrics fm(font);
   QRect messageRect = fm.boundingRect(QRect(), Qt::AlignCenter, msg);
   messageRect.moveCenter(QPoint(m_pixmapBuffer.width() / 2, 163));
@@ -157,7 +157,7 @@ void SendGlassFrame::drawProgressValue(QPainter &_painter) {
   pen.setColor(QColor("#364a6d"));
   _painter.setPen(pen);
   _painter.setFont(font);
-  _painter.drawText(messageRect, Qt::AlignCenter, msg);
+  //_painter.drawText(messageRect, Qt::AlignCenter, msg);
 }
 
 }
