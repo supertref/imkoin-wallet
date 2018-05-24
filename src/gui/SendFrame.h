@@ -1,6 +1,7 @@
 // Copyright (c) 2011-2016 The Cryptonote developers
 // Copyright (c) 2015-2016 XDN developers
-// Copyright (c) 2016 - 2018 Niobio developers - Derived work from -Karbowanec-
+// Copyright (c) 2017 - 2018 Niobio developers - Derived work from -Karbowanec-
+// Copyright (c) 2016 - 2018 Karbo developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -9,6 +10,8 @@
 #include <QFrame>
 
 #include <IWallet.h>
+#include <IWalletLegacy.h>
+#include "SendGlassFrame.h"
 
 namespace Ui {
   class SendFrame;
@@ -33,6 +36,7 @@ private:
   QScopedPointer<Ui::SendFrame> m_ui;
   QList<TransferFrame*> m_transfers;
   AddressProvider* m_addressProvider;
+  SendGlassFrame* m_glassFrame;
 
   QString remote_node_fee_address;
   quint64 remote_node_fee;
@@ -40,6 +44,8 @@ private:
 
   void sendTransactionCompleted(CryptoNote::TransactionId _id, bool _error, const QString& _error_text);
   void walletActualBalanceUpdated(quint64 _balance);
+  void walletSynchronized(int _error, const QString& _error_text);
+  void walletSynchronizationInProgress(quint64 _current, quint64 _total);
   void insertPaymentID(QString _paymentid);
   static bool isValidPaymentId(const QByteArray& _paymentIdString);
   void onAddressFound(const QString& _address);
