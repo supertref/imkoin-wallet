@@ -24,7 +24,7 @@ AccountFrame::AccountFrame(QWidget* _parent) : QFrame(_parent), m_ui(new Ui::Acc
   int id = QFontDatabase::addApplicationFont(":/fonts/mplusm");
   QString family = QFontDatabase::applicationFontFamilies(id).at(0);
   QFont monospace(family);
-  monospace.setPixelSize(15);
+  monospace.setPixelSize(12);
   m_ui->m_addressLabel->setFont(monospace);
 }
 
