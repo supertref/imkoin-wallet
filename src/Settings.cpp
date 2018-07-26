@@ -90,37 +90,43 @@ void Settings::load() {
   }
 
   QStringList defaultPoolList;
-  defaultPoolList << "nbr.openminer.net:47900" << "nb.selvahost.com.br:3333" << "us-nbr.4miner.me:3334" << "nbr-pool.ddns.net:3333" << "niobiopool.com.br:3331" << "us-nbr.4miner.me:5556" << "us.minerpool.site:3334";
-  if (!m_settings.contains(OPTION_MINING_POOLS)) {
-    setMiningPoolList(QStringList() << defaultPoolList);
-  } else {
-    QStringList poolList = getMiningPoolList();
-    Q_FOREACH (const QString& pool, defaultPoolList) {
-      if (!poolList.contains(pool)) {
-        poolList << pool;
-      }
-    }
-    setMiningPoolList(poolList);
-  }
+  defaultPoolList
+  << "us-nbr.4miner.me:3334"
+  << "pool.niobiocash.nl:3334"
+  << "nbr.ciapool.com:3333"
+  << "nb.selvahost.com.br:3333"
+  << "niobiopool.com.br:3331"
+  << "niobio.ingest.cryptoknight.cc:5801"
+  << "nbr.sqhubpool.com:3333"
+  << "niobio.smartcoinpool.com:6436"
+  << "pool.nbr.easyhash.pro:3999"
+  << "stratum.niobiocash.com:4334";
+  //if (!m_settings.contains(OPTION_MINING_POOLS)) {
+  setMiningPoolList(QStringList() << defaultPoolList);
+  //} else {
+  //  QStringList poolList = getMiningPoolList();
+  //  Q_FOREACH (const QString& pool, defaultPoolList) {
+  //    if (!poolList.contains(pool)) {
+  //      poolList << pool;
+  //    }
+  //  }
+  //  setMiningPoolList(poolList);
+  //}
 
   QStringList defaultNodesList;
   defaultNodesList << "remote-nbr-hydra.niobioco.in:8314"
-  << "remote-nbr-centaurus.niobioco.in:8314"
-  << "niobiocash.rdp.network:8314"
-  << "66.70.167.192:8314"
-  << "192.99.133.153:8314"
-  << "138.197.222.188:8314";
-  if (!m_settings.contains(OPTION_RPCNODES)) {
-    setRpcNodesList(QStringList() << defaultNodesList);
-  } else {
-    QStringList nodesList = getRpcNodesList();
-    Q_FOREACH (const QString& node, defaultNodesList) {
-      if (!nodesList.contains(node)) {
-        nodesList << node;
-      }
-    }
-    setRpcNodesList(nodesList);
-  }
+  << "remote-nbr-002.niobioco.in:8314";
+  //if (!m_settings.contains(OPTION_RPCNODES)) {
+  setRpcNodesList(QStringList() << defaultNodesList);
+  //} else {
+  //  QStringList nodesList = getRpcNodesList();
+  //  Q_FOREACH (const QString& node, defaultNodesList) {
+  //    if (!nodesList.contains(node)) {
+  //      nodesList << node;
+  //    }
+  //  }
+  //  setRpcNodesList(nodesList);
+  //}
 
   if (!m_settings.contains("recentWallets")) {
      QStringList recentWallets;
