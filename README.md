@@ -35,7 +35,7 @@ git clone https://github.com/niobio-cash/niobio-wallet.git
 git submodule update --init
 ```
 
-**2. Instalar as Dependências *
+**2. Instalar as Dependências**
 - g++
 - cmake
 - boost
