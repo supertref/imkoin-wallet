@@ -55,20 +55,20 @@ QString CurrencyAdapter::formatAmount(quint64 _amount) const {
   }
 
   quint32 dot_pos = result.length() - getNumberOfDecimalPlaces();
-  for (quint32 pos = result.length() - 1; pos > dot_pos + 1; --pos) {
-    if (result[pos] == '0') {
-      result.remove(pos, 1);
-    } else {
-      break;
-    }
-  }
+  //for (quint32 pos = result.length() - 1; pos > dot_pos + 1; --pos) {
+  //  if (result[pos] == '0') {
+  //    result.remove(pos, 1);
+  //  } else {
+  //    break;
+  //  }
+  //}
 
   result.insert(dot_pos, ".");
-  for (qint32 pos = dot_pos - 3; pos > 0; pos -= 3) {
-    if (result[pos - 1].isDigit()) {
-        //result.insert(pos, ',');
-    }
-  }
+  //for (qint32 pos = dot_pos - 3; pos > 0; pos -= 3) {
+  //  if (result[pos - 1].isDigit()) {
+  //      //result.insert(pos, ',');
+  //  }
+  //}
 
   return result;
 }
