@@ -1392,15 +1392,15 @@ Você quer ir à página de dowload?</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</source>
-        <translation>Especifique a lista de participantes para se juntar. Se esta opção for especificada, os comandos add-priority-node e seed-node serão ignorados</translation>
+        <translation>Especifique a lista de nodes para se juntar. Se esta opção for especificada, os comandos add-priority-node e seed-node serão ignorados</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Conecte-se ao nó para obter endereços pyro e desconectar</translation>
+        <translation>Conecta ao node para obter endereços de pares e desconecta</translation>
     </message>
     <message>
         <source>Do not announce yourself as peerlist candidate</source>
-        <translation>Não se anuncie como candidato pirata</translation>
+        <translation>Não se anuncie como peer</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1527,7 +1527,7 @@ Você quer ir à página de dowload?</translation>
     <message>
         <source>Your wallet will be reset and restored from blockchain.
 Are you sure?</source>
-        <translation>Sua carteira será redefinida e restaurada a partir do bloqueio.
+        <translation>Sua carteira será redefinida e restaurada a partir da blockchain.
 Você tem certeza?</translation>
     </message>
     <message>
@@ -1596,7 +1596,7 @@ Você tem certeza?</translation>
     </message>
     <message>
         <source>Connected through remote node</source>
-        <translation>Conecte-se via host remoto</translation>
+        <translation>Conectado via node remoto</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s)</source>
