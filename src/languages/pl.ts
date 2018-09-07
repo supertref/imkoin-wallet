@@ -1068,7 +1068,7 @@ Czy chesz otworzyć stronę pobierania w przeglądarce?</translation>
         <translation>Wygeneruj identyfikator</translation>
     </message>
     <message>
-        <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
+        <source>Wallet is connected through remote node. Additional 0.25% fee will be applied, until a maximum limit of 10 NBR.</source>
         <translation>Portfel jest podłączony za pośrednictwem zdalnego węzła. Będzie pobrana dodatkowa opłata 0,25%.</translation>
     </message>
     <message>

@@ -1,5 +1,12 @@
 Release notes Niobio Cash Wallet
 
+v1.3.6
+- NCIP 0004: Include informational messages when sending transactions using remote node
+- NCIP 0008: Reference implementation of new URI scheme for payment orders
+
+v1.3.5
+- Fix sync error on transactions list
+
 v.1.3.4
 - DNS checkpoints
 - Several layout improvements

@@ -306,7 +306,7 @@
     <message>
         <source>%1 wallet is saving data.
 Please wait...</source>
-        <translation>Salvando dados. Por favor, aguarde.</translation>
+        <translation>A carteira %1 está salvando dados. Por favor, aguarde.</translation>
     </message>
 </context>
 <context>
@@ -1056,11 +1056,11 @@ Você quer ir à página de dowload?</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Limpe tudo</translation>
+        <translation>Limpar Campos</translation>
     </message>
     <message>
         <source>Add Recipient</source>
-        <translation>Adicionar destinatário</translation>
+        <translation>Adicionar Destinatário</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -1083,16 +1083,20 @@ Você quer ir à página de dowload?</translation>
         <translation>Gerar ID</translation>
     </message>
     <message>
-        <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
-        <translation>A carteira é conectada através de um nó remoto. Será cobrada uma taxa adicional de 0,25%.</translation>
+        <source>Wallet is connected through remote node. Additional 0.25% fee will be applied, until a maximum limit of 10 NBR.</source>
+        <translation>A carteira está conectada através de um nó remoto. Será cobrada uma taxa adicional de 0,25%, com um limite máximo de 10 NBR.</translation>
     </message>
     <message>
         <source>Remote node mode</source>
-        <translation>Modo Host Remoto</translation>
+        <translation>Modo Node Remoto</translation>
     </message>
     <message>
         <source>Available balance:</source>
         <translation>Saldo disponível:</translation>
+    </message>
+    <message>
+      <source>The remote node calculated fee for this transaction is:</source>
+      <translation>A taxa do node remoto calculada para esta transação é:</translation>
     </message>
 </context>
 <context>
@@ -1494,7 +1498,7 @@ Você quer ir à página de dowload?</translation>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Sobre a Carteira Niobio Cash</translation>
+        <translation>Sobre a Carteira %1 Cash</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
