@@ -1567,7 +1567,7 @@ Are you sure?</source>
         <translation type="vanished">Счет</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Кошелек отслеживания. Расходы недоступны</translation>
     </message>
     <message>

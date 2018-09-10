@@ -1595,7 +1595,7 @@ Você tem certeza?</translation>
         <translation>Conta</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Rastreamento de carteiras. Os custos não estão disponíveis</translation>
     </message>
     <message>

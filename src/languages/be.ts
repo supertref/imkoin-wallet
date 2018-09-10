@@ -1578,7 +1578,7 @@ Are you sure?</source>
         <translation type="vanished">Рахунак</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Гаманец адсочвання. Выдаткі недаступныя</translation>
     </message>
     <message>

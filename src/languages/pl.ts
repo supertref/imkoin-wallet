@@ -1582,7 +1582,7 @@ Jesteś pewien?</translation>
         <translation type="vanished">Numer rachunku</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Portfel śledzenia. Wydatki niedostępne</translation>
     </message>
     <message>

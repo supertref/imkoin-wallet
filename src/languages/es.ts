@@ -1587,7 +1587,7 @@ Are you sure?</source>
         <translation type="vanished">Barra de herramientas de cuenta</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Monedero de seguimiento. Gasto no disponible</translation>
     </message>
     <message>

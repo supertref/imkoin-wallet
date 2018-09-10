@@ -1579,7 +1579,7 @@ Bist du sicher?</translation>
         <translation type="vanished">Kontenleiste</translation>
     </message>
     <message>
-        <source>Tracking wallet. Spending unawailable</source>
+        <source>Tracking wallet. Spending unavailable</source>
         <translation>Tracking-Wallet. Ausgaben unerreichbar</translation>
     </message>
     <message>
