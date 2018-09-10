@@ -1563,7 +1563,7 @@ Bist du sicher?</translation>
         <translation type="vanished">%1 Brieftasche %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
+        <source>More info can be found at project's web site: niobiocash.org</source>
         <translation>Weitere Informationen finden Sie unter www.niobiocash.org im Abschnitt Dokumentation</translation>
     </message>
     <message>

@@ -1562,7 +1562,7 @@ Are you sure?</source>
         <translation type="vanished">Niobio в. %2 (%1)</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
+        <source>More info can be found at project's web site: niobiocash.org</source>
         <translation>Больш інфармацыі на сайце www.niobiocash.org у раздзеле Дакументацыя.</translation>
     </message>
     <message>

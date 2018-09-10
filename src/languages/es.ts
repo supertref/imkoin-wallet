@@ -1571,7 +1571,7 @@ Are you sure?</source>
         <translation type="vanished">%1 Monedero %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
+        <source>More info can be found at project's web site: niobiocash.org</source>
         <translation>Se puede encontrar más información en www.niobiocash.org</translation>
     </message>
     <message>

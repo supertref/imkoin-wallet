@@ -1551,7 +1551,7 @@ Are you sure?</source>
         <translation type="vanished">Карбованец в. %2 (%1)</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
+        <source>More info can be found at project's web site: niobiocash.org</source>
         <translation>Больше информации на сайте www.niobiocash.org в разделе Документация.</translation>
     </message>
     <message>

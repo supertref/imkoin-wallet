@@ -1566,7 +1566,7 @@ Jesteś pewien?</translation>
         <translation type="vanished">%1waniec v. %2</translation>
     </message>
     <message>
-        <source>More info can be found at www.karbowanec.com in Documentation section</source>
+        <source>More info can be found at project's web site: niobiocash.org</source>
         <translation>Więcej informacji można znaleźć na stronie www.niobiocash.org w sekcji Dokumentacja</translation>
     </message>
     <message>
