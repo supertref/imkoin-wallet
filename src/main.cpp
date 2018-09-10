@@ -129,10 +129,15 @@ int main(int argc, char* argv[]) {
   app.processEvents();
   qRegisterMetaType<CryptoNote::TransactionId>("CryptoNote::TransactionId");
   qRegisterMetaType<quintptr>("quintptr");
-  if (!NodeAdapter::instance().init()) {
-    return 0;
-  }
   splash->finish(&MainWindow::instance());
+  if (!NodeAdapter::instance().init()) {
+    QString connection = Settings::instance().getConnection();
+    if(connection.compare("remote") == 0) {
+      QMessageBox::warning(nullptr, QObject::tr("Fail"), QObject::tr("Remote node %1 is not responding. Please select another one on Settings->Connection page, or select AUTO to use a local blockchain.").arg(Settings::instance().getCurrentRemoteNode()));
+    } else {
+      return 0;
+    }
+  }
   Updater d;
     d.checkForUpdate();
   MainWindow::instance().show();
