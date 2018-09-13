@@ -129,7 +129,7 @@ int main(int argc, char* argv[]) {
   app.processEvents();
   qRegisterMetaType<CryptoNote::TransactionId>("CryptoNote::TransactionId");
   qRegisterMetaType<quintptr>("quintptr");
-  splash->finish(&MainWindow::instance());
+
   if (!NodeAdapter::instance().init()) {
     QString connection = Settings::instance().getConnection();
     if(connection.compare("remote") == 0) {
@@ -138,6 +138,7 @@ int main(int argc, char* argv[]) {
       return 0;
     }
   }
+  splash->finish(&MainWindow::instance());
   Updater d;
     d.checkForUpdate();
   MainWindow::instance().show();
