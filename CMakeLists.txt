@@ -283,21 +283,21 @@ elseif (UNIX)
 
     install(PROGRAMS build/${PROJECT_NAME} DESTINATION bin
     PERMISSIONS OWNER_READ OWNER_WRITE OWNER_EXECUTE GROUP_READ GROUP_EXECUTE WORLD_READ WORLD_EXECUTE)
-    install(FILES src/niobio.desktop DESTINATION share/applications)
-    install(FILES src/images/karbowanez.png DESTINATION share/pixmaps RENAME karbowanec.png)
+    install(FILES src/niobiocashwallet.desktop DESTINATION share/applications)
+    install(FILES src/images/niobiocash.png DESTINATION share/pixmaps RENAME niobiocash.png)
     install(FILES copyright DESTINATION share/doc/niobiowallet)
 
     if (NOT RPMBUILD)
         set(CPACK_GENERATOR DEB)
         set(CPACK_DEBIAN_PACKAGE_NAME ${CPACK_PACKAGE_NAME})
         set(CPACK_SYSTEM_NAME 64-bit)
-        set(CPACK_DEBIAN_PACKAGE_MAINTAINER "${CPACK_PACKAGE_VENDOR} <krbcoin@ukr.net>")
+        set(CPACK_DEBIAN_PACKAGE_MAINTAINER "${CPACK_PACKAGE_VENDOR} <contato@niobiocash.com>")
         set(CPACK_DEBIAN_PACKAGE_SECTION Office)
         set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
-        set(CPACK_DEBIAN_PACKAGE_DESCRIPTION "Niobio NBR wallet
- Niobio is Brazillian decentralized, privacy oriented peer-to-peer
- cryptocurrency. It is open-source, nobody owns or controls Niobio
- and everyone can take part.")
+        set(CPACK_DEBIAN_PACKAGE_DESCRIPTION "Niobio Cash wallet
+ Niobio Cash is a Brazilian decentralized, privacy oriented peer-to-peer
+ cryptocurrency. It is open-source, nobody owns or controls Niobio Cash
+ and everyone can take part of it.")
 set(CPACK_PACKAGE_FILE_NAME "${CPACK_DEBIAN_PACKAGE_NAME}-${CPACK_PACKAGE_VERSION}-${VERSION_RELEASE}${CPACK_SYSTEM_NAME}")
     else()
         set(CPACK_GENERATOR RPM)
@@ -306,11 +306,11 @@ set(CPACK_PACKAGE_FILE_NAME "${CPACK_DEBIAN_PACKAGE_NAME}-${CPACK_PACKAGE_VERSIO
         set(CPACK_RPM_PACKAGE_LICENSE "MIT")
         set(CPACK_RPM_PACKAGE_GROUP Office)
         set(CPACK_RPM_PACKAGE_REQUIRES "qt5-qtbase >= 5.3.2, qt5-qtbase-gui >= 5.3.2")
-        set(CPACK_RPM_PACKAGE_SUMMARY "Niobio NBR wallet")
-        set(CPACK_RPM_PACKAGE_DESCRIPTION "Niobio NBR wallet
- Niobio is Brazilian decentrilized, privacy oriented peer-to-peer
- cryptocurrency. It is open-source, nobody owns or controls Niobio
- and everyone can take part.")
+        set(CPACK_RPM_PACKAGE_SUMMARY "Niobio Cash wallet")
+        set(CPACK_RPM_PACKAGE_DESCRIPTION "Niobio Cash wallet
+ Niobio Cash is a Brazilian decentralized, privacy oriented peer-to-peer
+ cryptocurrency. It is open-source, nobody owns or controls Niobio Cash
+ and everyone can take part of it.")
 set(CPACK_PACKAGE_FILE_NAME "${CPACK_PACKAGE_NAME}-${CPACK_PACKAGE_VERSION}-${VERSION_RELEASE}${CPACK_SYSTEM_NAME}")
     endif ()
 elseif (WIN32)
