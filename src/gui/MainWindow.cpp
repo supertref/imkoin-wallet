@@ -107,7 +107,7 @@ void MainWindow::connectToSignals() {
   connect(&WalletAdapter::instance(), &WalletAdapter::walletTransactionCreatedSignal, this, [this]() {
       QApplication::alert(this);
   });
-  
+
   connect(&NodeAdapter::instance(), &NodeAdapter::peerCountUpdatedSignal, this, &MainWindow::peerCountUpdated, Qt::QueuedConnection);
   connect(m_ui->m_exitAction, &QAction::triggered, qApp, &QApplication::quit);
   connect(m_ui->m_accountFrame, &AccountFrame::showQRcodeSignal, this, &MainWindow::onShowQR, Qt::QueuedConnection);
@@ -116,7 +116,7 @@ void MainWindow::connectToSignals() {
 }
 
 void MainWindow::setDefaultWindowTitle() {
-    setWindowTitle(QString(tr("Niobio Wallet %1")).arg(Settings::instance().getVersion()) + " - " + Settings::instance().getWalletFile());
+    setWindowTitle(QString(tr("Niobio Cash Wallet %1")).arg(Settings::instance().getVersion()) + " - " + Settings::instance().getWalletFile());
 }
 
 void MainWindow::initUi() {
@@ -898,7 +898,7 @@ void MainWindow::createTrayIcon()
 {
 #ifdef Q_OS_WIN
     m_trayIcon = new QSystemTrayIcon(QPixmap(":images/cryptonote"), this);
-    QString toolTip = QString(tr("Niobio Wallet %1")).arg(Settings::instance().getVersion());
+    QString toolTip = QString(tr("Niobio Cash Wallet %1")).arg(Settings::instance().getVersion());
     m_trayIcon->setToolTip(toolTip);
     m_trayIcon->show();
 #endif

@@ -12,8 +12,8 @@
         <translation>Fechar</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -508,8 +508,8 @@ Please wait...</source>
         <translation>Mudar senha</translation>
     </message>
     <message>
-        <source>About Niobio Wallet</source>
-        <translation>Sobre a Carteira Niobio</translation>
+        <source>About</source>
+        <translation>Sobre a Carteira Niobio Cash</translation>
     </message>
     <message>
         <source>About Qt</source>
@@ -937,7 +937,7 @@ Please wait...</source>
     </message>
     <message>
         <source>%1 wallet already running or I cannot create lock file %2. Check your permissions.</source>
-        <translation>Niobio Wallet já está sendo executada, ou estou tendo problema para criar o arquivo de lock em %2. Verifique suas permissões de escrita.</translation>
+        <translation>Niobio Cash Wallet já está sendo executada, ou estou tendo problema para criar o arquivo de lock em %2. Verifique suas permissões de escrita.</translation>
     </message>
     <message>
         <source>New version available</source>
@@ -1268,8 +1268,8 @@ Você quer ir à página de dowload?</translation>
         <translation>Sobre %1</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1419,8 +1419,8 @@ Você quer ir à página de dowload?</translation>
         <translation>Execute o programa minimizado</translation>
     </message>
     <message>
-        <source>Niobio wallet</source>
-        <translation>Niobio wallet</translation>
+        <source>Niobio Cash Wallet</source>
+        <translation>Niobio Cash Wallet</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
@@ -1498,11 +1498,11 @@ Você quer ir à página de dowload?</translation>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Sobre a Carteira %1 Cash</translation>
+        <translation>Sobre a Carteira %1</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobio Cash Wallet v. %1&lt;/p&gt;&lt;p&gt;Niobio Cash: a moeda digital brasileira definitiva. Baseada na tecnologia CryptoNote, que garante anonimato.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;br/&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;br/&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;br/&gt;Copyright (c) 2017-2018. Niobio Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://niobiocash.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>New wallet file</source>
@@ -1611,7 +1611,7 @@ Você tem certeza?</translation>
     </message>
     <message>
         <source>Karbo Wallet %1</source>
-        <translation>Niobio Wallet %1</translation>
+        <translation>Niobio Cash Wallet %1</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -1626,8 +1626,8 @@ Você tem certeza?</translation>
         <translation>Quantidade: %1, hash: %2</translation>
     </message>
     <message>
-        <source>Niobio Wallet</source>
-        <translation>Niobio Wallet</translation>
+        <source>Niobio Cash Wallet</source>
+        <translation>Niobio Cash Wallet</translation>
     </message>
     <message>
         <source>New transaction received</source>
@@ -1686,8 +1686,8 @@ Você tem certeza?</translation>
         <translation>A extensão de arquivo inválida, o arquivo de carteira deve ter extensões &quot;.wallet&quot;, &quot;.keys&quot; or &quot;.trackingwallet&quot; extension.</translation>
     </message>
     <message>
-        <source>Niobio Wallet %1</source>
-        <translation>Niobio Wallet %1</translation>
+        <source>Niobio Cash Wallet %1</source>
+        <translation>Niobio Cash Wallet %1</translation>
     </message>
 </context>
 <context>
